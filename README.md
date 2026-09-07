@@ -1,16 +1,14 @@
-Hi, I’m Yash Shende 👋
-🚀 Cybersecurity Engineer | SOC Analyst | Web3 Developer
+# Hi, I'm Yash Shende
 
-🔍 Passionate about securing decentralized applications, analyzing security incidents, and building scalable blockchain solutions.
+### Cybersecurity Engineer building the intersection of AI and Cloud Security
 
-🛡️ Cybersecurity & SOC: Proficient in cloud security, incident response, SIEM (Splunk, QRadar), threat intelligence, and Confidential Computing (TEE).
+I secure multi-cloud environments (AWS, Azure, GCP) and embed AI into security operations — from GenAI-assisted threat detection to automated SOAR playbooks that cut alert fatigue. My focus is shift-left: catching misconfigurations and vulnerabilities before they ever reach production.
 
-🌐 Blockchain & Web3: Experienced in smart contract development (Solidity, Hardhat), Layer 2 scaling and DeFi security.
+**Core areas:** SIEM/SOAR engineering, cloud security posture management, incident response, DevSecOps, threat detection
 
-📜 Certifications: CompTIA Security+, Blockchain Specialization (University at Buffalo), Anjuna Certified Professional (Confidential Computing).
+**Certifications:** CrowdStrike Certified Falcon Administrator (CCFA) · CompTIA Security+ · AWS Academy Cloud Security Foundations
 
-📫 Reach me at yashshende26@gmail.com
-
+Reach me at yashshende26@gmail.com
 <!---
 yash0049/yash0049 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
